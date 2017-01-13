@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<CodeSnippets  
+    xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">  
+    <CodeSnippet Format="1.0.0">  
+        <Header>  
+            <Title>Feature</Title>
+            <Shortcut>feata</Shortcut>
+        </Header>  
+        <Snippet>  
+            <Code Language="Csharp">  
+                <![CDATA[public class Query : IAsyncRequest<Result>
+                    {
+                    }
+
+                    public class QueryValidator : AbstractValidator<Query>
+                    {
+                        public QueryValidator()
+                        {
+
+                        }
+                    }
+
+                    public class Result
+                    {
+                    }
+
+                    public class Handler : IAsyncRequestHandler<Query, Result>
+                    {
+                        private readonly CmpContext _context;
+                        private readonly IConfigurationProvider _config;
+
+                        public Handler(CmpContext context, IConfigurationProvider config)
+                        {
+                            _context = context;
+                            _config = config;
+                        }
+
+                        Task<Result> IAsyncRequestHandler<Query, Result>.Handle(Query message)
+                        {
+                            throw new NotImplementedException();
+                        }
+                    }]]>  
+            </Code>
+            <Imports>  
+                <Import>  
+                    <Namespace>MediatR</Namespace>
+                </Import>
+                <Import>
+                    <Namespace>FluentValidation</Namespace>
+                </Import>
+                <Import>
+                    <Namespace>Infrastructure</Namespace>
+                </Import>
+                <Import>
+                    <Namespace>AutoMapper</Namespace>
+                </Import>
+                <Import>
+                    <Namespace>System</Namespace>
+                </Import>
+                <Import>
+                    <Namespace>System.Threading.Tasks</Namespace>
+                </Import>              
+            </Imports>   
+        </Snippet>        
+    </CodeSnippet>  
+</CodeSnippets>  

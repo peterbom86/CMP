@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CatManPromotion_Sweden_Dev", "CatManPromotion_Sweden_Dev\CatManPromotion_Sweden_Dev.sqlproj", "{7825432F-7CCA-4ACA-9123-F68D238456E5}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CatManPromotion_Sirius_Dev", "CatManPromotion_Sirius_Dev\CatManPromotion_Sirius_Dev.sqlproj", "{75368547-B9D9-4CB1-8D3D-C2EAA36FCAFF}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CatManPromotion_Finland_Dev", "CatManPromotion_Finland_Dev\CatManPromotion_Finland_Dev.sqlproj", "{94FAEE89-7D2F-438A-8191-F7EAA28C336C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7825432F-7CCA-4ACA-9123-F68D238456E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7825432F-7CCA-4ACA-9123-F68D238456E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7825432F-7CCA-4ACA-9123-F68D238456E5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7825432F-7CCA-4ACA-9123-F68D238456E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7825432F-7CCA-4ACA-9123-F68D238456E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7825432F-7CCA-4ACA-9123-F68D238456E5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{75368547-B9D9-4CB1-8D3D-C2EAA36FCAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75368547-B9D9-4CB1-8D3D-C2EAA36FCAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75368547-B9D9-4CB1-8D3D-C2EAA36FCAFF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{75368547-B9D9-4CB1-8D3D-C2EAA36FCAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75368547-B9D9-4CB1-8D3D-C2EAA36FCAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75368547-B9D9-4CB1-8D3D-C2EAA36FCAFF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{94FAEE89-7D2F-438A-8191-F7EAA28C336C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FAEE89-7D2F-438A-8191-F7EAA28C336C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FAEE89-7D2F-438A-8191-F7EAA28C336C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{94FAEE89-7D2F-438A-8191-F7EAA28C336C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FAEE89-7D2F-438A-8191-F7EAA28C336C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FAEE89-7D2F-438A-8191-F7EAA28C336C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://knowledgecube.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CatManPromotion_Sweden_Dev\\CatManPromotion_Sweden_Dev.sqlproj
+		SccProjectName1 = CatManPromotion_Sweden_Dev
+		SccLocalPath1 = CatManPromotion_Sweden_Dev
+		SccProjectUniqueName2 = CatManPromotion_Sirius_Dev\\CatManPromotion_Sirius_Dev.sqlproj
+		SccProjectName2 = CatManPromotion_Sirius_Dev
+		SccLocalPath2 = CatManPromotion_Sirius_Dev
+		SccProjectUniqueName3 = CatManPromotion_Finland_Dev\\CatManPromotion_Finland_Dev.sqlproj
+		SccProjectName3 = CatManPromotion_Finland_Dev
+		SccLocalPath3 = CatManPromotion_Finland_Dev
+	EndGlobalSection
+EndGlobal

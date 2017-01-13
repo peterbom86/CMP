@@ -1,0 +1,52 @@
+{
+  "cmpx": {
+    "meta": {},
+    "product": {},
+    "selectedCampaign": null,
+    "customers": [],
+    "productGroups": {
+      "items": [
+        {
+          "id": "633E6B63-ABCC-4C85-A3D8-012D98B1EC3F",
+          "name": "Zendium Saliva",
+          "productCategory_id": "ACC9951A-5550-49EE-9E17-A1D6BF313D10"
+        },
+        {
+          "id": "A95267A8-A778-4D0B-8ED2-023447C2CED5",
+          "name": "Neutral Flydende 1000L",
+          "productCategory_id": "23262155-FA75-44FE-A4CE-BDCBC8432CC3"
+        },
+        {
+          "id": "B14F66C7-94C3-4056-A5B8-02C83EBE2AD8",
+          "name": "Dove Body Care Pump",
+          "productCategory_id": "ACC9951A-5550-49EE-9E17-A1D6BF313D10"
+        },
+        {
+          "id": "CA1367CB-637A-42CE-864E-03A046AE41B9",
+          "name": "Axe Julegave tasker 3-pak",
+          "productCategory_id": "ACC9951A-5550-49EE-9E17-A1D6BF313D10"
+        },
+        {
+          "id": "BB4FE985-A886-47AD-A7D1-0517AE406F90",
+          "name": "Tresemmé hår 250 ml",
+          "productCategory_id": "ACC9951A-5550-49EE-9E17-A1D6BF313D10"
+        }
+      ],
+      "meta": {
+        "totalItemCount": 70
+      }
+    },
+    "products": {
+      "items": [],
+      "meta": {
+        "totalItemCount": 0
+      }
+    },
+    "campaigns": {
+      "items": [],
+      "meta": {
+        "totalItemCount": 0
+      }
+    }
+  }
+}

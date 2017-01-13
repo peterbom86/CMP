@@ -1,0 +1,12 @@
+﻿CREATE  PROCEDURE rdh_DeleteEANCodes
+  @EANCodeID int
+
+AS
+
+DELETE FROM EANCodes
+WHERE EANCodeID = @EANCodeID
+
+
+
+
+

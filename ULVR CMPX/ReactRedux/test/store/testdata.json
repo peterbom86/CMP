@@ -1,0 +1,71 @@
+{
+  "cmpx": {
+    "product": {},
+    "campaign": {},
+    "customers": [],
+    "productGroups": {
+      "items": [
+        {
+          "id": "633E6B63-ABCC-4C85-A3D8-012D98B1EC3F",
+          "name": "Zendium Saliva",
+          "productCategory_id": "ACC9951A-5550-49EE-9E17-A1D6BF313D10"
+        },
+        {
+          "id": "A95267A8-A778-4D0B-8ED2-023447C2CED5",
+          "name": "Neutral Flydende 1000L",
+          "productCategory_id": "23262155-FA75-44FE-A4CE-BDCBC8432CC3"
+        },
+        {
+          "id": "B14F66C7-94C3-4056-A5B8-02C83EBE2AD8",
+          "name": "Dove Body Care Pump",
+          "productCategory_id": "ACC9951A-5550-49EE-9E17-A1D6BF313D10"
+        },
+        {
+          "id": "CA1367CB-637A-42CE-864E-03A046AE41B9",
+          "name": "Axe Julegave tasker 3-pak",
+          "productCategory_id": "ACC9951A-5550-49EE-9E17-A1D6BF313D10"
+        },
+        {
+          "id": "BB4FE985-A886-47AD-A7D1-0517AE406F90",
+          "name": "Tresemmé hår 250 ml",
+          "productCategory_id": "ACC9951A-5550-49EE-9E17-A1D6BF313D10"
+        }
+      ],
+      "meta": {
+        "totalItemCount": 70
+      }
+    },
+    "products": {
+      "items": [
+        {
+          "name": "DOVEHBCREPROAGE30MLPEGB/PT/IT/DK0 8",
+          "productCode": "T438333",
+          "productGroupName": "Dove Body Care",
+          "productGroupProductCategoryName": "Personal Care",
+          "id": "37a2749b-6100-4085-80b8-0004162c5681",
+          "productGroupId": "3f31e782-0191-4363-8e39-d95dec565a52s"
+        }
+      ],
+      "meta": {
+        "totalItemCount": 0
+      }
+    },
+    "campaigns": [
+      {
+        "name": "ssss",
+        "customer": {
+          "id": "907E8E9E-1AA9-4E6C-BC68-BCEF6057DBA0",
+          "name": "7Eleven"
+        },
+        "startDate": "2017-02-04T00:00:00",
+        "endDate": "2017-02-11T00:00:00",
+        "campaignProductRelations": [],
+        "priceDate": "2017-01-28T00:00:00",
+        "status": 1,
+        "createdDate": "2016-11-04T13:44:12.2769057",
+        "id": "f89bf364-104a-41dd-aa7d-1414591ac6bc",
+        "orderValue": "2016-11-04T13:44:12.2769057"
+      }
+    ]
+  }
+}
